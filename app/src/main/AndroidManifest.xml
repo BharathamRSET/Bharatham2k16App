@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="josephvarghese.roundmelon.dell.bharathamone">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".AppController"
+        android:allowBackup="true"
+        android:icon="@mipmap/finalicon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/title_activity_home"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait">
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="josephvarghese.roundmelon.dell.bharathamone.MainActivity" />
+        </activity>
+        <activity android:name=".Site" android:screenOrientation="portrait"/>
+        <activity android:name=".Chart" />
+        <activity android:name=".Updates" android:screenOrientation="portrait"/>
+
+
+
+        <activity android:name=".UploadActivity" android:screenOrientation="portrait"/>
+        <activity android:name=".SelfieGallery" android:screenOrientation="portrait"/>
+        <activity android:name=".About" android:screenOrientation="portrait"/>
+        <activity android:name=".Credits" android:screenOrientation="portrait"/>
+        <activity android:name=".Schedule" android:screenOrientation="portrait"/>
+        <activity android:name=".Youtube"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "350120629750",
+    "firebase_url": "https://fir-one-6cfde.firebaseio.com",
+    "project_id": "fir-one-6cfde",
+    "storage_bucket": "fir-one-6cfde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350120629750:android:34441f5d2c9a7e92",
+        "android_client_info": {
+          "package_name": "josephvarghese.roundmelon.dell.bharathamone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350120629750-vl9qjb34mq4mfgdq2hfkvg3ag7m04qn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "josephvarghese.roundmelon.dell.bharathamone",
+            "certificate_hash": "531C5E6E64D21588A9B0F841363F83C8C85D0B83"
+          }
+        },
+        {
+          "client_id": "350120629750-f84it930qk38qfsfv99b1ooo5n0kmhjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt7imM7OFsTwb-y_vZk5GNNpbozg_87_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350120629750-f84it930qk38qfsfv99b1ooo5n0kmhjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
