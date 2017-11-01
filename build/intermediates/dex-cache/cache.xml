@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.4.0/f00bc767918ad9c89e5c13e25706d033a58e13c2/firebase-client-android-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.4.0_2c01585df3b4a67a84c3e2ebb10053e7b1ebe711/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/d479351c235c5937e25fe0a3ac13d612/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.1.1.aar/a0e97969eecec6c756a331ede75fc61b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.android/build-cache/cdcd5e844cb03b7b1e7666c837a26603ec3a2481/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f466be6a8b8bcf3aaa4987711f047ff7d0b0a84d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.0.9/4244e2998018aa492389e8e30a77b7987959608e/MPAndroidChart-v2.0.9.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4244e2998018aa492389e8e30a77b7987959608e">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/6b134a14da9d0e72e1b9a8c2ae3d12e6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.0.0.aar/bae60d615b9483bb0e1276eab84b79e1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.android/build-cache/e02edc223dcbd569c609f1ca99aface4e4b44f38/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5476add44deac940451cb24cb5c07a3c51c398f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_44ea8b9cd0ce3d2f8d232d4dda11040d42704b3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/46e5eb81bb78beaee4e2798c505463a8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.android/build-cache/8e183df5ffa78135c5e9e840cb682a946df0d945/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03fcb6aa0da15db5e34d2e60b2fae49b746adf3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.android/build-cache/9a3184910adce2914028c944cc9c5193c7957b49/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30bab20cfb40766db85004ca146e2fc425c7dc3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.android/build-cache/606f7d2b88720c157667eb369a66908d7ad41674/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50967ec55f53233cdd432d6c68f1e0f338883b6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.0.0.aar/5df8d35a04091c71f22a88373b8bc247/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.android/build-cache/900eefea896b016609b658cad982661cbd6e1e3c/output/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_363a547ebe08706ebdf2332030409b2cc01186ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/be7de5a054e3b2e071338286f9146bbd/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.android/build-cache/90ec5e713f48640b4d6a99a91908bb8c4f7f30e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52f9bc5dd9bf9f4a6ba6de1f4ac28ee596e7c667/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/code/BharathamOne/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_2756457130616927f4b4e935e532b0198f1efe80/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/dbc6edbd3aa97affae9a153e60776d48/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.4.0/f00bc767918ad9c89e5c13e25706d033a58e13c2/firebase-client-android-2.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_45dcf14adaddd47ed7ef17f1f1934e81c91ef181/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.android/build-cache/4cb639135db455edfe7883d328561c3193e8e0a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f73416b1f97a7a938b41798e013b75cd990896f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.android/build-cache/6b937105f9c7b6c6cc6c056bf598e29c0a4d1d5f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5aafac6986c2f66fcf2ce1e05996142bc0eb2f12/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/code/BharathamOne/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.android/build-cache/64ddb89b39b6e8c508dfcacfa058c7e88caab0df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_445c8ef75e34ce51e61cc1c4bdf6305eea16f93a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/a70dad8626cce6535207d09b9bf4b31b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.4.0/558e074f136fee609b8758480ecd00e286595137/firebase-client-jvm-2.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.android/build-cache/d741813b495f6b2f162e2613c48be02fb70a8c40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_622a4954bea73bcc0d40acba6111f506988d9894/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/33eb279f429350c6cdf68d97cbf492f4/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.android/build-cache/900eefea896b016609b658cad982661cbd6e1e3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d04def10bd483c6d5be29ab5c47f31b82cd3f87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_a7b310868314a7a54f9e6703ec2725a06ef0e962/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.android/build-cache/223a02c6eba391bd40bc50a55aa13149e410b6eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5079ce9ea9f3818c9a1efbc5d26d5ef75bd62b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.4.0/558e074f136fee609b8758480ecd00e286595137/firebase-client-jvm-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.4.0_d20a8557f18cf4fcd090a7a7058115382176fce9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.0.9/4244e2998018aa492389e8e30a77b7987959608e/MPAndroidChart-v2.0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4244e2998018aa492389e8e30a77b7987959608e">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v2.0.9_1a3156c029a9bba3796754f7d01c2d80c370d86c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ced4c888544b75f5789c1f43178b282bddbd1a">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_84d573efd13cdeb840faf215c0d648594ca7be85/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/transforms-1/files-1.1/design-24.1.1.aar/eaefdf367414fae119b0e4b3763b5f3f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/transforms-1/files-1.1/firebase-messaging-9.0.0.aar/2fa969640e77660ef6c7faedd47157dc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.android/build-cache/d9b68da550702d2c629880b1bce39eee123ac686/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a1088737f3fac8ffd8ce3acc163601b47fae447/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/a191030f1f31a175ccbf63c3e615bafc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/739505c7a1e0a5b3a99bfccc243a4e06/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.android/build-cache/c673e3d80f44f5bd408cb3ad94dc5f34da7292d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c0669d673c10929bcc677c70519d9746835d9c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/0a8529508ccdb307d03740714882def1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.12_9bbb5812d2c71e429fcd14f909c3af0d38d2f589/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_3f87e00003161090c612afdb7ddb983efc4c1558/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.android/build-cache/c213d9ee01995b4d4e6683ba7f1ba595f0ac8720/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6cba302c7169b0ad3be27423b8d26d958e35c08a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_205165d35355cacd09b44793ea52b95ace66b444/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josephvarghese/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_f283fd95a288b2eb749e64cd0e08edc768f142d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephvarghese/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/33eb279f429350c6cdf68d97cbf492f4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/josephvarghese/code/BharathamOne/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+
+</items>

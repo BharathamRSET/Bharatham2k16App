@@ -2,7 +2,6 @@ package josephvarghese.roundmelon.dell.bharathamone;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
-import android.graphics.Typeface;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
@@ -59,11 +58,11 @@ public class HomeActivity extends AppCompatActivity
         viewFlipper.setAutoStart(true);
         viewFlipper.setFlipInterval(2500);
         viewFlipper.startFlipping();
-        Typeface type = Typeface.createFromAsset(getAssets(),"fonts/Roboto-Light.ttf");
+//        Typeface type = Typeface.createFromAsset(getAssets(),"fonts/Roboto-Light.ttf");
         TextView t = (TextView) findViewById(R.id.textView7);
-        t.setTypeface(type);
+//        t.setTypeface(type);
         t=(TextView) findViewById(R.id.textview8);
-        t.setTypeface(type);
+//        t.setTypeface(type);
 
         imageButton = (ImageButton) findViewById(R.id.imageButton);
         imageButton.setOnClickListener(new View.OnClickListener() {
